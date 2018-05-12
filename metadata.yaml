@@ -1,0 +1,32 @@
+_repo: The-History-of-SumatraManners-Of-The-Native-Inhabitants_16768
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marsden, William
+    birthdate: 1754
+    deathdate: 1836
+    gutenberg_agent_id: '6918'
+    url: http://www.gutenberg.org/2009/agents/6918
+description: ''
+gutenberg_issued: '2005-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16768'
+  lccn: 05013396
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sumatra (Indonesia)'
+- !lcc 'DS'
+- !lcsh 'Natural history -- Indonesia -- Sumatra'
+title: 'The History of Sumatra
+
+  Containing An Account Of The Government, Laws, Customs And
+
+  Manners Of The Native Inhabitants'
+url: http://www.gutenberg.org/ebooks/16768
