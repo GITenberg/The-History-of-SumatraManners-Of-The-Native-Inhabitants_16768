@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6918'
     url: http://www.gutenberg.org/2009/agents/6918
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16768#The-History-of-SumatraManners-Of-The-Native-Inhabitants
 gutenberg_issued: '2005-09-28'
 gutenberg_type: Text
 identifiers:
